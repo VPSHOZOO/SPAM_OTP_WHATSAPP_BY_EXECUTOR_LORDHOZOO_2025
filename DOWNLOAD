@@ -16,6 +16,8 @@ clear
 npm install moment
 clear
 npm install random
+clear
 
-node SPAM.js
+npm install request
 
+node CALL.js
