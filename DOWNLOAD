@@ -17,4 +17,5 @@ npm install moment
 clear
 npm install random
 
+node SPAM.js
 
